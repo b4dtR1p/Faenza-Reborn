@@ -1,0 +1,21 @@
+People,
+
+I'm no artist. I'm no Inkscape expert. I do not have any templates. The icons I gathered so far are from Faenza Fresh, Faenza Variants and other projects located at this link: http://utdesign13.com/50-free-icon-sets-for-web-designer-and-developer/
+
+So I urge to 'gather' people who knows how to make Faenza-like icons and willing to keep the project alive since the original author was contracted by Canonical to make an all-original icon theme for Ubuntu... so until he's done we can push this forward ourselves.
+
+There's a spreadsheet I made to keep track of what's needed and what's not. If you open it you'll see it's self-explainatory... suggestions and requests go there.
+
+So far I'm the only one coordinating this project. I contacted Faenza Fresh's author and he said another guy is also looking forward to this.
+
+This project was originally aimed for GNOME / XFCE / LXDE so that's basically the most important goal I have - these DE's have grown and need more icons to be 'Faenza-lized'.
+
+As for the priorities, I'm seeking first for icons that are missing from a modern vanilla-install of GNOME / XFCE / LXDE and typical applications most people use today. Absolutely *no* variations on icons already created by Matthieu James - icons for unique applications and/or that substitute symlinks are OK tough, so the 'common sense' before contributing an icon is checking if it is in Faenza 1.3.1 (the last Faenza release).
+
+I'm planning on getting rid of some symlinks nobody uses anymore - like openoffice 2.x and alike.
+
+Well, that's about it, I hope we can work it out!
+
+Cheers,
+
+- Luis
